@@ -1,4 +1,4 @@
-baseURL = 'https://snowy-rain-9768.on.fleek.co/'
+baseURL = 'https://tristan.bz/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-ink"
